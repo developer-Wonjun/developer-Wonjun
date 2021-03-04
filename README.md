@@ -1,5 +1,12 @@
-### Hi there 👋
+### 😄Hi there😄
 
+Hi everyone! I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enjoy building backend using django framework!
+
+
+### I'm currently...🤔
+
+  1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)
+  2. Backend developer in Fun.D 6th ('이웃집닥터')
 <!--
 **developer-Wonjun/developer-Wonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

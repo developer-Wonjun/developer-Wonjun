@@ -7,7 +7,7 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 
 ### I'm currently...🤔
 
-  <a href="https://github.com/developer-Wonjun/GraduationProject-Hanseo.Univ/blob/main/README.md">1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)</a><br>
+  <a href="https://github.com/developer-Wonjun/GraduationProject-Hanseo.Univ">1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)</a><br>
   2. Backend developer in Fun.D 6th ('이웃집닥터')
 
 ![Dochi's github stats](https://github-readme-stats.vercel.app/api?username=developer-Wonjun&show_icons=true)

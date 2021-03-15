@@ -8,7 +8,7 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/MySQL-4479A1?style={style}&logo=MySQL&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Oracle-F80000?style={style}&logo=Oracle&logoColor=white"/></a>&nbsp 
 </p>
 
 <h3 align="center">Be learning</h3>

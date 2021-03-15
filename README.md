@@ -4,6 +4,19 @@
 
 I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enjoy building backend using django framework!
 
+<h2 align="center">Used Stack</h2>
+<p align="center">
+<img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/MySQL-4479A1?style={style}&logo=MySQL&logoColor=white"/></a>&nbsp 
+</p>
+
+<h3 align="center">Be learning</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={style}&logo=JavaScript&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Node.js-339933?style={style}&logo=Node.js&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/Express-000000?style={style}&logo=Express&logoColor=white"/></a>&nbsp
+</p>
 
 ### I'm currently...🤔
 

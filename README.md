@@ -4,7 +4,7 @@
 
 I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enjoy building backend using django framework!
 
-<h2 align="center">Used Stack</h2>
+<h2 align="center">Stack</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a>&nbsp 

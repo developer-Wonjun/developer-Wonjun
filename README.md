@@ -9,9 +9,9 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a>&nbsp 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style={style}&logo=MySQL&logoColor=white" /></a>&nbsp &nbsp &nbsp &nbsp &nbsp 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style={style}&logo=HTML5&logoColor=white"  height="4%" width="4%"/></a>&nbsp
-<img src="https://img.shields.io/badge/CSS3-1572B6?style={style}&logo=CSS3&logoColor=white"  height="4%" width="4%"/></a>&nbsp
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={style}&logo=JavaScript&logoColor=white"height="7%" width="6%"/></a>&nbsp
+<img src="https://img.shields.io/badge/HTML5-E34F26?style={style}&logo=HTML5&logoColor=white"  height="6%" width="6%"/></a>&nbsp
+<img src="https://img.shields.io/badge/CSS3-1572B6?style={style}&logo=CSS3&logoColor=white"  height="5%" width="6%"/></a>&nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={style}&logo=JavaScript&logoColor=white"height="7%" width="8%"/></a>&nbsp
 </p>
 
 <h3 align="center">Be learning</h3>

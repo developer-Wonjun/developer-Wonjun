@@ -12,10 +12,8 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 <img src="https://img.shields.io/badge/HTML5-E34F26?style={style}&logo=HTML5&logoColor=white"  height="6.2%" width="6.2%"/></a>&nbsp
 <img src="https://img.shields.io/badge/CSS3-1572B6?style={style}&logo=CSS3&logoColor=white"  height="5.5%" width="5.5%"/></a>&nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style={style}&logo=JavaScript&logoColor=white"height="7%" width="8%"/></a>&nbsp 
-<br><br>
-<img src="https://img.shields.io/badge/Docker-2496ED?style={style}&logo=Docker&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/NGINX-009639?style={style}&logo=NGINX&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/AmazonAWS-232F3E?style={style}&logo=AmazonAWS&logoColor=white"/></a>&nbsp
+<br>
+
 </p>
 
 <h3 align="center">Be learning</h3>

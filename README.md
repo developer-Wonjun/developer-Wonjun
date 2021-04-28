@@ -20,6 +20,7 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 <p align="center">
 <img src="https://img.shields.io/badge/Node.js-339933?style={style}&logo=Node.js&logoColor=white"/></a>&nbsp
 <img src="https://img.shields.io/badge/Express-000000?style={style}&logo=Express&logoColor=white"/></a>&nbsp
+<img src="https://img.shields.io/badge/React-61DAFB?style={style}&logo=React&logoColor=white"/></a>&nbsp
 </p>
 
 ### I'm currently...🤔

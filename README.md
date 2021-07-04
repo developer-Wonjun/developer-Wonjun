@@ -26,6 +26,7 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 
   <a href="https://github.com/developer-Wonjun/GraduationProject-Hanseo.Univ">1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)</a><br>
   <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터')</a><br>
+  3. Ubivelox Mobile ICT Team Backend Developer (Intern)
 
 ![Dochi's github stats](https://github-readme-stats.vercel.app/api?username=developer-Wonjun&show_icons=true)
 <!--

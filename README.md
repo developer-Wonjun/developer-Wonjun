@@ -25,7 +25,7 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 ### I'm currently...🤔
 
   <a href="https://github.com/developer-Wonjun/Success_Backend">1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)</a><br>
-  <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터')</a><br>
+  <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터') - QA && Ver2 </a><br>
   3. Ubivelox Mobile ICT Team Backend Developer (Intern)
   4. Prediction Company BackEnd Developer (2021-08-17 ~ )
 

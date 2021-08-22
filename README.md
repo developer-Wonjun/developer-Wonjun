@@ -22,12 +22,18 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 <img src="https://img.shields.io/badge/Java-007396?style={style}&logo=Java&logoColor=white"/></a>&nbsp
 </p>
 
+
 ### I'm currently...🤔
 
-  <a href="https://github.com/developer-Wonjun/Success_Backend">1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)</a><br>
-  <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터') - QA && Ver2 </a><br>
-  3. Ubivelox Mobile ICT 3Team Backend Developer (Intern) <br>
-  4. Prediction Company BackEnd Developer (2021-08-17 ~ )
+   1. Prediction Company BackEnd Developer (2021-08-17 ~ )<br>
+   <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터') - 1차 Ver</a><br>
+  
+
+### Experience
+
+   <a href="https://github.com/developer-Wonjun/Success_Backend">1. Backend developer of graduation project in Hanseo.univ (dept of Aviation Software)</a><br>
+   <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터') - 1차 Ver</a><br>
+   3. Ubivelox Mobile ICT 3Team Backend Developer (Intern) <br><br><br>
 
 ![Dochi's github stats](https://github-readme-stats.vercel.app/api?username=developer-Wonjun&show_icons=true)
 <!--

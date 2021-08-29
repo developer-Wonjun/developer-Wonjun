@@ -2,7 +2,7 @@
   
 ### HELLO WORLD ! 😄
 
-I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enjoy building backend using django && express framework!
+I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enjoy building backend using django ( drf ) && express framework!
 
 <h3 align="center">Stack</h3>
 <p align="center">

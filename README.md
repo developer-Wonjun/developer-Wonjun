@@ -24,7 +24,7 @@ I'm Wonjun Kim and I'm a college student interested in Python. Especially, I enj
 
 
 ### I'm currently...🤔
-   <a href="https://github.com/Team-MySide">1. Backend developer in Fun.D 6th ('이웃집닥터') - 1차 ver QA && 2차 ver 개발 중</a><br>
+   <a href="https://github.com/Team-MySide">1. Backend developer in Fun.D 6th ('이웃집닥터') - 2차 ver 개발 중</a><br>
    2. Prediction Company BackEnd Developer (2021-08-17 ~ )<br>
 
 ### Experience

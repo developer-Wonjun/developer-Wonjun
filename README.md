@@ -18,7 +18,7 @@ I'm Wonjun Kim and I'm interested in <img src="https://img.shields.io/badge/Pyth
 
 
 ![Dochi's github stats](https://github-readme-stats.vercel.app/api?username=developer-Wonjun&show_icons=true&hide_border=true&count_private=true&theme=radical&line_height=20.5)　
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-Wonjun&hide_border=true&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-Wonjun&hide_border=true&layout=compact&theme=radical&card_width=250)
 
 <!--
 **developer-Wonjun/developer-Wonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,7 +2,7 @@
   
 ### HELLO WORLD ! 😄
 
-I'm Wonjun Kim and I'm interested in <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a><img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a><img src="https://img.shields.io/badge/Node.js-339933?style={style}&logo=Node.js&logoColor=white"/></a><img src="https://img.shields.io/badge/MySQL-4479A1?style={style}&logo=MySQL&logoColor=white" /></a>
+I'm Wonjun Kim and I'm interested in <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Node.js-339933?style={style}&logo=Node.js&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style={style}&logo=MySQL&logoColor=white" /></a>
 
 
 
@@ -16,8 +16,10 @@ I'm Wonjun Kim and I'm interested in <img src="https://img.shields.io/badge/Pyth
    <a href="https://github.com/Team-MySide">2. Backend developer in Fun.D 6th ('이웃집닥터') - 1차 Ver</a><br>
    3. Ubivelox Mobile ICT 3Team Backend Developer (Intern) <br><br><br> -->
 
-![Dochi's github stats](https://github-readme-stats.vercel.app/api?username=developer-Wonjun&show_icons=true)　
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-Wonjun)
+
+![Dochi's github stats](https://github-readme-stats.vercel.app/api?username=developer-Wonjun&show_icons=true&hide_border=true&count_private=true&theme=radical&line_height=20.5)　
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=developer-Wonjun&hide_border=true&layout=compact&theme=radical)
+
 <!--
 **developer-Wonjun/developer-Wonjun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

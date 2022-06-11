@@ -2,8 +2,10 @@
   
 ### HELLO WORLD ! 😄
 
-I'm Wonjun Kim and I'm interested in <img src="https://img.shields.io/badge/Python-3776AB?style={style}&logo=Python&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Django-092E20?style={style}&logo=Django&logoColor=white"/></a>  <img src="https://img.shields.io/badge/Node.js-339933?style={style}&logo=Node.js&logoColor=white"/></a>  <img src="https://img.shields.io/badge/MySQL-4479A1?style={style}&logo=MySQL&logoColor=white" /></a>
-
+I'm Wonjun Kim and I'm interested in 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) - 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) - 
+![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)
 
 
 <!-- ### I'm currently...🤔

@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=50874D&height=300&section=header&text=Welcome!&fontColor=#50874d&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=50874D&height=100&section=header&text=Welcome!&fontColor=#50874d&fontSize=90)
 
 <h3 align="center">Teck</h3>
 <p align="center">

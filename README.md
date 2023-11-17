@@ -2,7 +2,7 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=50874D&height=100&section=header)
 <h3 align="center">  Hello World :raised_hands:,  I'm Wonjun-Kim </h3>
-    <p>I live in Jamsil and work at <b>KPMG Korea</b></p>
+    <p>I live in Gangnam and work at <b>KPMG Korea</b></p>
 <br>
 <h3 align="center">🌜 My Tech 🌛  </h3>
 <p align="center">
